@@ -38,6 +38,7 @@ class Point {
  
     print() {
         console.log(`(${this.x}, ${this.y})`);
+    
     }
  
     description() {
